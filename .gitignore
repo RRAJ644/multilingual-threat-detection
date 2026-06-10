@@ -1,0 +1,10 @@
+ML_Models/
+
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.npy
+*.model
+
+.env
